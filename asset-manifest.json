@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eventMgmt_frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/eventMgmt_frontend/static/js/main.16eccab1.chunk.js",
+    "main.js.map": "/eventMgmt_frontend/static/js/main.16eccab1.chunk.js.map",
+    "runtime-main.js": "/eventMgmt_frontend/static/js/runtime-main.edcedb1f.js",
+    "runtime-main.js.map": "/eventMgmt_frontend/static/js/runtime-main.edcedb1f.js.map",
+    "static/css/2.11829350.chunk.css": "/eventMgmt_frontend/static/css/2.11829350.chunk.css",
+    "static/js/2.3c68dca1.chunk.js": "/eventMgmt_frontend/static/js/2.3c68dca1.chunk.js",
+    "static/js/2.3c68dca1.chunk.js.map": "/eventMgmt_frontend/static/js/2.3c68dca1.chunk.js.map",
+    "index.html": "/eventMgmt_frontend/index.html",
+    "precache-manifest.52c00acafd9c2881905d0a303601e537.js": "/eventMgmt_frontend/precache-manifest.52c00acafd9c2881905d0a303601e537.js",
+    "service-worker.js": "/eventMgmt_frontend/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/eventMgmt_frontend/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/eventMgmt_frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3c68dca1.chunk.js.LICENSE.txt": "/eventMgmt_frontend/static/js/2.3c68dca1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edcedb1f.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3c68dca1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.16eccab1.chunk.js"
+  ]
+}
